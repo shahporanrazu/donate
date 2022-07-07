@@ -103,7 +103,7 @@ h3 {
 
 .amount {
     background-color: #FAFAFA;
-    padding: 10px 30px;
+    padding: 00px 30px;
     margin: 30px 10px;
     color: #707070;
 
@@ -112,6 +112,7 @@ h3 {
 #default_selected_amount {
     color: #FF5959;
     border: 2px solid #FF5959;
+    background-color: #FFEEEE;
 }
 
 .other_amount_field {
