@@ -139,7 +139,6 @@ h3 {
 }
 
 #donate_plan {
-    padding-top: 80px;
     padding-bottom: 80px;
 
 }
@@ -213,8 +212,8 @@ h3 {
 
 /* Get my update section CSS code started from here */
 #get_my_update {
-    margin-top: 30px;
-    margin-bottom: 70px;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 
 #get_my_update p {
@@ -230,7 +229,7 @@ h3 {
     width: 565px;
     margin: auto;
     background-color: #FFF4D6;
-    padding: 60px 90px 60px 130px;
+    padding: 60px 90px 60px 100px;
 
 }
 
