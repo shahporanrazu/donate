@@ -87,7 +87,6 @@ h3 {
 
 }
 
-
 #donate_section p {
     font-size: 18px;
     line-height: 28px;
@@ -134,11 +133,11 @@ h3 {
     color: #B3B3B3;
 }
 
-/* Our Donate Plan CSS code Started from Here */
 #donate_section button {
     margin-top: 30px;
 }
 
+/* Our Donate Plan CSS code Started from Here */
 #donate_plan {
     padding-bottom: 80px;
 
